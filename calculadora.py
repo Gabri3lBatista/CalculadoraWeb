@@ -30,7 +30,7 @@ def calculate():
 def again():
     calc_again = input('''
     Do you want to calculate again?
-    Please type Y for YES or N for NO.
+    Please jesus type Y for YES or N for NO.
     ''')
     
     if calc_again.upper() == 'Y':
