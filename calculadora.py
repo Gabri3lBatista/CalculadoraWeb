@@ -41,5 +41,3 @@ def again():
         again()
 calculate()
     
-
-    "Gabriel voce é foda"
